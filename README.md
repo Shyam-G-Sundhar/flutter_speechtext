@@ -1,16 +1,7 @@
-# speechtext
+# FlutterSpeech To Text
 
-A new Flutter project.
+Welcome to the third installment of our Flutter App Series! Introducing the Flutter Speech-to-Text App, a revolutionary application utilizing speech recognition technology. Our app transcribes spoken words into written text with accuracy. It's perfect for note-taking, email dictation, and more. With an intuitive interface and advanced editing features, it offers a seamless user experience. Privacy is paramount, and we ensure the security of your data through robust encryption protocols. Thank you for your continued support as we approach the release of the Flutter Speech-to-Text App. Stay tuned for updates!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Shyam-G-Sundhar/flutter_speechtext/assets/83800362/c752e80c-49cf-4c23-a8e2-c1e394162787)
+![image](https://github.com/Shyam-G-Sundhar/flutter_speechtext/assets/83800362/eeb9243a-d7db-4e09-aba3-41e94a68f722)
+![image](https://github.com/Shyam-G-Sundhar/flutter_speechtext/assets/83800362/c0883135-7086-4f98-a32d-a71f37ffdecb)
